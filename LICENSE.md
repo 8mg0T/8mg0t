@@ -25,4 +25,4 @@
 
 ```diff
 - El archivo es demasiado grande para alojarlo directamente en GitHub.
-+ Por favor, descárgalo mediante MediaFire.
++Por favor la compra que se haga mediante Discord.
