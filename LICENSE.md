@@ -1,1 +1,5 @@
-e
+# ⚠️ Archivo muy pesado ⚠️
+
+```diff
+- El archivo es demasiado grande para alojarlo directamente en GitHub.
++ Por favor, descárgalo mediante MediaFire.
